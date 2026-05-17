@@ -129,6 +129,6 @@ Based on the data analytics project, here are the final conclusions for the supe
 
 ## 5. References
 
-* **Course Dataset:** Supermarket Sales Dataset (2026). Provided for MIS 311 - Introduction to Business Analytics, Eastern International University (EIU).
-* **Microsoft Excel Documentation:** Guidelines for Descriptive Statistics, Histogram, and Box & Whisker Plot visualizations.
-* **GitHub Docs:** Guide on Creating and Managing GitHub Repositories for Data Portfolios.
+Eastern International University. (2026). *Supermarket sales dataset* [Data set]. Course materials for MIS 311: Introduction to Business Analytics. 
+
+GitHub. (n.d.). *GitHub docs: Getting started with GitHub*. GitHub, Inc. https://docs.github.com/
