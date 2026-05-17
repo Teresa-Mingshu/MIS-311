@@ -54,6 +54,7 @@ The summary table below presents the descriptive statistics for the continuous n
 
 ![Descriptive Statistics Table](Descriptive Statistics.png)
 
+
 ### Data Interpretation
 
 The descriptive statistics table highlights key characteristics of the store's sales dynamics:
