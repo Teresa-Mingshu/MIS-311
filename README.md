@@ -52,13 +52,17 @@ After cleaning and preprocessing, the final dataset contained 250 rows and 8 col
 
 The summary table below presents the descriptive statistics for the continuous numerical variables (`quantity` and `total_price`) to establish a foundational baseline for the dataset.
 
-![Descriptive Statistics Table](Descriptive Statistics.png)
-
+<p align="center">
+  <img src="https://github.com/Teresa-Mingshu/MIS-311/blob/main/Descriptive%20Statistics.png?raw=true" alt="Descriptive Statistics Table" width="60%">
+</p>
 
 ### Data Interpretation
 
 The descriptive statistics table highlights key characteristics of the store's sales dynamics:
 
 * **Sales Consistency (`quantity`):** With a Mean of **10.8** items and a Mode of **10**, customer order volumes are highly consistent and predictable, simplifying checkout management and SCM load planning.
-* **Revenue Volatility (`total_price`):** Transaction values show extreme variance (Standard Deviation = **$102.8**), stretching from a minimum of **$2.18** to a bulk purchase maximum of **$427.14**.
+* **Revenue Volatility (`total_price`):** Transaction values show extreme variance (Standard Deviation = **$102.80**), stretching from a minimum of **$2.18** to a bulk purchase maximum of **$427.14**.
 * **Median vs. Mode Gap:** While the Median order value is **$106.59**, the most frequent basket value (Mode) is only **$38.63**. This gap reveals that the store relies on frequent, small daily convenience purchases for steady foot traffic, while overall revenue is heavily driven upward by occasional high-value bulk orders (Outliers).
+
+
+
