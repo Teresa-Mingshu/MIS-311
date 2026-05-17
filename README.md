@@ -43,3 +43,10 @@ The `total_price` column showed some unusually high transaction values. These ou
 
 ### Data Cleaning Summary
 After cleaning and preprocessing, the final dataset contained 250 rows and 8 columns ready for analysis.
+
+---
+
+## Descriptive Analysis
+
+### Baseline Data Profile
+The summary table below presents the descriptive statistics for the continuous numerical variables (`quantity` and `total_price`) to establish a foundational baseline for the dataset before deep-diving into categorical analysis.
